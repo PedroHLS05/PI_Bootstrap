@@ -31,3 +31,12 @@ $primary: $moss-600 !default;
 .btn-outline-success { color: $moss-600; border-color: $moss-600; }
 .text-muted { color: $moss-600 !important; }
 .bg-light { background-color: $moss-100 !important; }
+
+/* Estilos da seção de login: somente texto em preto, fundos originais */
+.login-section .card { color: #000 !important; background-color: unset !important; }
+.login-section .card .form-label { color: #000 !important; }
+.login-section .card .form-control { color: #000 !important; background-color: #fff !important; border-color: #ced4da !important; }
+.login-section .card .form-control::placeholder { color: #6c757d !important; }
+.login-section .btn, .login-section .btn * { color: #000 !important; }
+.login-section .btn-outline-success { color: #000 !important; border-color: #000 !important; }
+.login-section .btn-outline-success:hover { background-color: #000 !important; color: #fff !important; }

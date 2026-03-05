@@ -1,5 +1,5 @@
 {
-    "title": "Shop Homepage",
+    "title": "Página Inicial da Loja",
     "name": "startbootstrap-shop-homepage",
     "version": "5.0.6",
     "scripts": {
@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A shop homepage HTML template built with Bootstrap",
+    "description": "Um template de página inicial de loja em HTML construído com Bootstrap",
     "keywords": [
         "css",
         "sass",

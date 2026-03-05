@@ -1,2 +1,2 @@
-// This file is intentionally blank
-// Use this file to add JavaScript to your project
+// Este arquivo está intencionalmente vazio
+// Use este arquivo para adicionar JavaScript ao seu projeto
